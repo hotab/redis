@@ -6,9 +6,9 @@ import (
 
 	"github.com/go-redis/redis"
 	"github.com/json-iterator/go"
-	"gopkg.in/oauth2.v3"
-	"gopkg.in/oauth2.v3/models"
-	"gopkg.in/oauth2.v3/utils/uuid"
+	"github.com/hotab/oauth2"
+	"github.com/hotab/oauth2/models"
+	"github.com/hotab/oauth2/utils/uuid"
 )
 
 var (
