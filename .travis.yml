@@ -1,6 +1,6 @@
 language: go
 sudo: false
-go_import_path: github.com/hotab/redis/redis.v3
+go_import_path: github.com/hotab/redis
 go:
   - 1.9
 services:
